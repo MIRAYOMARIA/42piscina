@@ -1,0 +1,9 @@
+Last login: Mon Nov 23 13:10:53 on ttys001
+c2r4s5% klist
+Credentials cache: API:5210
+        Principal: mmirayo-@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 23 13:11:28 2020  Nov 23 23:11:24 2020  krbtgt/42MADRID.COM@42MADRID.COM
+c2r4s5%
+
