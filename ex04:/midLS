@@ -1,1 +1,1 @@
-ls -AmpU
+ls -mptU
