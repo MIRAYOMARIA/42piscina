@@ -1,2 +1,2 @@
-find . -type fdir | git check-ignore --stdin
+find . -type f| git check-ignore --stdin
 
